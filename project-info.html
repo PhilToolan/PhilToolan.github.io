@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang='en'>
 
 <head>
@@ -25,27 +25,10 @@
 </head>
 <body>
     <!-- HEADER -->
-    <?php
-
-switch ($_SERVER["SCRIPT_NAME"]) {
-    case "/index.php":
-        $CURRENT_PAGE = "Index";
-        break;
-    case "/about.php":
-        $CURRENT_PAGE = "About";
-        break;
-    case "/contact.php":
-        $CURRENT_PAGE = "Contact";
-        break;
-    default:
-        $CURRENT_PAGE = "Other";
-        break;
-}
-?>
 
 <header class="mobile-header">
     <div class="logo">
-        <a href="index.php"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
+        <a href="index.html"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
     </div>
     <nav class="burger-menu">
         <input id="burger-check" type="checkbox" />
@@ -54,17 +37,17 @@ switch ($_SERVER["SCRIPT_NAME"]) {
         </label>
         <div class="burger-box">
             <div class="logo">
-                <a href="index.php"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
+                <a href="index.html"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
             </div>
             <ul>
                 <li>
-                    <a class="<?php if ($CURRENT_PAGE == 'Index') { ?>active<?php } ?>" href="index.php"><p>Home</p></a>
+                    <a class="" href="index.html"><p>Home</p></a>
                 </li>
                 <li>
-                    <a class="<?php if ($CURRENT_PAGE == 'About') { ?>active<?php } ?>" href="about.php"><p>About</p></a>
+                    <a class="" href="about.html"><p>About</p></a>
                 </li>
                 <li>
-                    <a class="<?php if ($CURRENT_PAGE == 'Contact') { ?>active<?php } ?>" href="contact.php"><p>Contact</p></a>
+                    <a class="" href="contact.html"><p>Contact</p></a>
                 </li>
             </ul>
         </div>
@@ -80,18 +63,18 @@ switch ($_SERVER["SCRIPT_NAME"]) {
     <div class="container-responsive">
         <div class="flex-container">
             <div class="logo">
-                <a href="index.php"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
+                <a href="index.html"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
             </div>
             <nav>
                 <ul>
                     <li>
-                        <a href="index.php"><p class="<?php if ($CURRENT_PAGE == 'Index') { ?>active<?php } ?>">Home</p></a>
+                        <a href="index.html"><p class="">Home</p></a>
                     </li>
                     <li>
-                        <a href="about.php"><p class="<?php if ($CURRENT_PAGE == 'About') { ?>active<?php } ?>">About</p></a>
+                        <a href="about.html"><p class="">About</p></a>
                     </li>
                     <li>
-                        <a href="contact.php"><p class="<?php if ($CURRENT_PAGE == 'Contact') { ?>active<?php } ?>">Contact</p></a>
+                        <a href="contact.html"><p class="">Contact</p></a>
                     </li>
                 </ul>
             </nav>
@@ -108,7 +91,7 @@ switch ($_SERVER["SCRIPT_NAME"]) {
     <div id="my_container">
         <img src="images/orange-logoV.png" alt="">
         <h1>VIVI | Philip Toolan</h1>
-        <p>Web Portfolio - <?php echo date("Y"); ?></p>
+        <p>Web Portfolio - <?html echo date("Y"); ?></p>
         <div class="loader">
             <div class="circle"></div>
             <div class="circle"></div>
@@ -162,7 +145,7 @@ switch ($_SERVER["SCRIPT_NAME"]) {
             </div>
             <div id="project-images" data-aos="fade-up" data-aos-duration="600">
             </div>
-            <a class="link" href="index.php#projects" data-aos="fade-up" data-aos-duration="600">< Back to projects</a>
+            <a class="link" href="index.html#projects" data-aos="fade-up" data-aos-duration="600">< Back to projects</a>
         </div>
     </main>
     <!-- SCRIPT PROJECTS -->
@@ -181,4 +164,4 @@ switch ($_SERVER["SCRIPT_NAME"]) {
 <script>
     AOS.init();
 </script>
-</body> -->
+</body>
