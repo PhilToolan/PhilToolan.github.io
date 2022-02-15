@@ -1,7 +1,121 @@
-<?php include 'includes/head.php'; ?>
+<!-- <!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <!-- FONT -->
+    <link href="https://fonts.googleapis.com/css2?family=Palanquin:wght@100;200;300;400;500;600;700&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href='css/style.css' rel='stylesheet' type='text/css'>
+    <!-- FAVICON (small icon top browser) -->
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="images/favicon/site.webmanifest">
+    <!-- ICONS -->
+    <link href='css/fontello.css' rel='stylesheet' type='text/css'>
+    <!-- SCRIPTS -->
+    <script src='js/load.js' async></script>
+
+    <title>VIVI | Philip Toolan</title>
+    <meta name="description" content="I am a computer scientist specializing in real-time 3D and interactive programs. Creating something beautiful from just code excites me and working in this field is a dream job for me. ">
+    <meta name="keywords" content="Creative coder, virtual reality, portfolio, 3D modelling, real time 3D, video games, procedural generation, branding">
+    <meta name="author" content="Alicia Martinez Lopez | ambiby">
+    <meta name="Language" content="ENG">
+</head>
 <body>
     <!-- HEADER -->
-    <?php include 'includes/header.php'; ?>
+    <?php
+
+switch ($_SERVER["SCRIPT_NAME"]) {
+    case "/index.php":
+        $CURRENT_PAGE = "Index";
+        break;
+    case "/about.php":
+        $CURRENT_PAGE = "About";
+        break;
+    case "/contact.php":
+        $CURRENT_PAGE = "Contact";
+        break;
+    default:
+        $CURRENT_PAGE = "Other";
+        break;
+}
+?>
+
+<header class="mobile-header">
+    <div class="logo">
+        <a href="index.php"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
+    </div>
+    <nav class="burger-menu">
+        <input id="burger-check" type="checkbox" />
+        <label class="burger-button" for="burger-check">
+            <span></span>
+        </label>
+        <div class="burger-box">
+            <div class="logo">
+                <a href="index.php"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
+            </div>
+            <ul>
+                <li>
+                    <a class="<?php if ($CURRENT_PAGE == 'Index') { ?>active<?php } ?>" href="index.php"><p>Home</p></a>
+                </li>
+                <li>
+                    <a class="<?php if ($CURRENT_PAGE == 'About') { ?>active<?php } ?>" href="about.php"><p>About</p></a>
+                </li>
+                <li>
+                    <a class="<?php if ($CURRENT_PAGE == 'Contact') { ?>active<?php } ?>" href="contact.php"><p>Contact</p></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div id="up-button-container" class="hide">
+        <a href="#">
+            <span class="icon-up"></span>
+        </a>
+    </div>
+</header>
+
+<header class="desktop-header">
+    <div class="container-responsive">
+        <div class="flex-container">
+            <div class="logo">
+                <a href="index.php"><img src="images/orange-logoH.png" alt="vivi's logo"></a>
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.php"><p class="<?php if ($CURRENT_PAGE == 'Index') { ?>active<?php } ?>">Home</p></a>
+                    </li>
+                    <li>
+                        <a href="about.php"><p class="<?php if ($CURRENT_PAGE == 'About') { ?>active<?php } ?>">About</p></a>
+                    </li>
+                    <li>
+                        <a href="contact.php"><p class="<?php if ($CURRENT_PAGE == 'Contact') { ?>active<?php } ?>">Contact</p></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div id="up-button-container" class="hide">
+        <a href="#">
+            <span class="icon-up"></span>
+        </a>
+    </div>
+</header>
+
+<div id="loading-container">
+    <div id="my_container">
+        <img src="images/orange-logoV.png" alt="">
+        <h1>VIVI | Philip Toolan</h1>
+        <p>Web Portfolio - <?php echo date("Y"); ?></p>
+        <div class="loader">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+        </div>
+    </div>
+</div>
 
     <!-- MAIN -->
     <main>
@@ -54,7 +168,17 @@
     <!-- SCRIPT PROJECTS -->
     <script src='js/project-info.js' async></script>
     <!-- FOOTER -->
-    <?php include 'includes/footer.php'; ?>
+    <footer>
+    <div>
+        <img src="images/white-isologo.png" alt="vivi's logo">
+        <p>All rights reserved ©</p>
+    </div>
+</footer>
     <!-- HEADER END -->
-    <?php include 'includes/head-end.php'; ?>
-</body>
+    <!-- ANIMATION LIBRARY -->
+<link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+</body> -->
