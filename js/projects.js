@@ -328,7 +328,7 @@ function clickProject(json) {
         }
         localStorage.setItem("projectNumberKey", json["projects"][projectNumber]["keyword"]);
 
-        window.location.href = "project-info.php" + "#" + json["projects"][projectNumber]["keyword"];
+        window.location.href = "project-info.html" + "#" + json["projects"][projectNumber]["keyword"];
         });
     }
 }
