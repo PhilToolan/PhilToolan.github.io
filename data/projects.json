@@ -4,7 +4,7 @@
             "keyword": "theheistvr",
             "title": "The Heist VR",
             "short-description": "A local asymmetric multiplayer game for VR and desktop. Developed as part of my thesis project in TU Dublin. ", 
-            "type": "virtualreality videogames", 
+            "type": "virtualreality videogames 3dmodelling", 
             "year": "April 2021", 
 
             "author": "Philip Toolan",
@@ -27,7 +27,7 @@
             "keyword": "vrfish",
             "title": "VR Fish Meditation",
             "short-description": "A relaxing experience created using Unity ECS to simulate a school of fish, Conway's Game of Life and more.", 
-            "type": "virtualreality proceduralgeneration", 
+            "type": "virtualreality 3dmodelling proceduralgeneration", 
             "year": "January 2022", 
 
             "author": "Philip Toolan",
