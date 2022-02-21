@@ -65,7 +65,7 @@
             "long-description":"The project was completed as part of a semester project at FH Upper Austria. It recreates a forest environment that is common in Austria, then simulates the FLIR data for that environment. Unreal engine 4 and SpeedTree 8 are used to recreate a forest environment. The trees are procedurally spawned to create the forest and then post processing materials are used to dynamically show the FLIR data for the entire level. ", 
             "role": "I created the entire project using blueprints in Unreal, the tree models were made in SpeedTree and the texturing was done in SpeedTree and unreal. The accompanying project report was also written by me with greater details of the project. ", 
             
-            "images":[["forest1.png", "one"], ["forest2.png", "two"], ["forest3.png", "two"], ["forest4.png", "one"]], 
+            "images":[["forest1.png", "one"], ["forest4.png", "two"], ["forest3.png", "two"]], 
             
             "featured": "yes"
         },
@@ -82,7 +82,7 @@
             "client": "",
             "client-url": "",
 
-            "buttons": [["Access the full brandbook", "https://github.com/PhilToolan/Unity-ECS"]],
+            "buttons": [["Access the full brandbook", "https://drive.google.com/drive/folders/1nu-H346yY-mNRvJpdE_nezhXva-gIuVW?usp=sharing"]],
 
             "cover-img": "brand0.png",
             "long-description":"My own personal brand, VIVI. It is short for vivify which means to make alive. This perfectly encapsulates my ambition to turn code into something incredible. The brand creation process took place over a number of weeks from initial concept to final design. The entire BrandBook can be found online. ", 
