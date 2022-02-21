@@ -130,11 +130,11 @@
 
             "buttons": [["Access the report", "https://github.com/PhilToolan/Unity-ECS"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "opengl0.png",
             "long-description":"A collection of projects completed by me and Samuel Ebner as part of our study at FH Upper Austria. The projects range from basic shapes to complex shaders and materials. All of the projects were completed in parallel with each other and the report delves into the details of each project. This report can be used as a bible for further work. ", 
             "role": "I worked with basic rendering, fragment and vertex shaders, deferred shading, non-photorealistic shading, creating materials and ray-tracing. Specific work entirely done by me alone can be found on the jersey material and the ray traced torus shape. ", 
             
-            "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
+            "images":[["opengl1.jpeg", "two"], ["opengl2.png", "two"]], 
             
             "featured": "no"
         },
