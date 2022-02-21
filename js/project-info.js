@@ -65,6 +65,14 @@ function createProject(json) {
     project_long_description.innerHTML = json["projects"][projectValue]["long-description"];
     project_role.innerHTML = json["projects"][projectValue]["role"];
 
+    if (json["projects"][projectValue]["client-url"] == "") {
+        project_client.classList.remove("project-link");
+    }
+
+    if (json["projects"][projectValue]["awards-url"] == "") {
+        project_awards.classList.remove("project-link");
+    }
+
     /* BUTTONS */
     if (json["projects"][projectValue]["buttons"] != "") {
         for (i = 0; i < json["projects"][projectValue]["buttons"].length; i++) {
