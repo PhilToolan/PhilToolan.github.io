@@ -38,11 +38,11 @@
 
             "buttons": [["Access the code", "https://github.com/PhilToolan/Unity-ECS"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "vrfish0.png",
             "long-description":"Sit back and relax as you watch a school of 15,000 fish all swim around the environment procedurally. The fish consist of 15,000 boids that are updated in real time using separation, cohesion, alignment, constrain and wander behaviours. Procedural animation is also used on each fish to animate them in real time as they interact with their environment. In total there is 28,000 entities being updated every frame, with a performance of over 100fps on desktop and around 90fps in VR. The project also includes a number of other projects using the entity component system in Unity including Conway's Game of Life and real time mesh deformation. ", 
             "role": "The project was created as an assignment in the Interactive Media master at FH Upper Austria. It was created using C#, Unity ECS and Blender. ", 
             
-            "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
+            "images":[["vrfish1.png", "two"], ["vrfish2.png", "two"]], 
             
             "featured": "no"
         }, 
@@ -61,11 +61,11 @@
 
             "buttons": [["Access the final report", "https://github.com/PhilToolan/Unity-ECS"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "forest0.jpeg",
             "long-description":"The project was completed as part of a semester project at FH Upper Austria. It recreates a forest environment that is common in Austria, then simulates the FLIR data for that environment. Unreal engine 4 and SpeedTree 8 are used to recreate a forest environment. The trees are procedurally spawned to create the forest and then post processing materials are used to dynamically show the FLIR data for the entire level. ", 
             "role": "I created the entire project using blueprints in Unreal, the tree models were made in SpeedTree and the texturing was done in SpeedTree and unreal. The accompanying project report was also written by me with greater details of the project. ", 
             
-            "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
+            "images":[["forest1.png", "one"], ["forest2.png", "two"], ["forest3.png", "two"], ["forest4.png", "one"]], 
             
             "featured": "yes"
         },
