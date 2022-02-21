@@ -84,11 +84,11 @@
 
             "buttons": [["Access the full brandbook", "https://github.com/PhilToolan/Unity-ECS"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "brand0.png",
             "long-description":"My own personal brand, VIVI. It is short for vivify which means to make alive. This perfectly encapsulates my ambition to turn code into something incredible. The brand creation process took place over a number of weeks from initial concept to final design. The entire BrandBook can be found online. ", 
             "role": "All the designs and concept were developed over the period of a month. The final designs and mockups were made in Adobe Illustrator, Photoshop and InDesign. ", 
             
-            "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
+            "images":[["brand1.png", "one"], ["brand2.png", "two"], ["brand3.png", "two"]], 
             
             "featured": "no"
         },
@@ -107,11 +107,11 @@
 
             "buttons": [["Check out the renders", "https://github.com/PhilToolan/Unity-ECS"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "blend0.png",
             "long-description":"The series of isometric models is a personal project to keep my skills updated and gain experience in new techniques or different modelling techniques. Currently the series features both low poly and hard surface modelling. Some of the environments have been created as part of the 3D Illustrator course from Roman Klčo (Polygon Runway). ", 
             "role": "I created and rendered all the environments in Blender using cycles. All the materials were created in Blender, Photoshop or found online. ", 
             
-            "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
+            "images":[["blend1.png", "one"], ["blend2.png", "two"], ["blend3.png", "two"], ["blend4.png", "two"], ["blend5.png", "two"]], 
             
             "featured": "no"
         },
