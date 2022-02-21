@@ -153,11 +153,11 @@
 
             "buttons": [["Access the code", "https://github.com/PhilToolan/GE2-Assignment"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "stargate0.jpg",
             "long-description":"The battle scene is recreated using various triggers that cause the scene changes. Predator prey simulation is used for background fights in the battle. The prey follows a set of way points until it is being attacked at which point it will flee and find some ammo so it can attack the predator back. The predator pursues the prey until it runs out of ammo, at which point it will search for some randomly spawned ammo. This makes an organic looking fight between the ships. Other behaviours are used throughout like obstacle avoidance. As the experience is controlled by AI, the minute details will not be the same every time it runs but the overarching narrative is always the same. A complete rundown of the project can be found on the GitHub.", 
             "role": "The project was created as part of a class assignment in my final year of TU Dublin. I programmed the entire experience using C# and Unity. The 3D models are from various users on SketchFab.", 
             
-            "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
+            "images":[["stargate0.png", "two"], ["stargate1.png", "two"]], 
             
             "featured": "no"
         }
