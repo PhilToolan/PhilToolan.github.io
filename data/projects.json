@@ -42,7 +42,7 @@
             "long-description":"Sit back and relax as you watch a school of 15,000 fish all swim around the environment procedurally. The fish consist of 15,000 boids that are updated in real time using separation, cohesion, alignment, constrain and wander behaviours. Procedural animation is also used on each fish to animate them in real time as they interact with their environment. In total there is 28,000 entities being updated every frame, with a performance of over 100fps on desktop and around 90fps in VR. The project also includes a number of other projects using the entity component system in Unity including Conway's Game of Life and real time mesh deformation. ", 
             "role": "The project was created as an assignment in the Interactive Media master at FH Upper Austria. It was created using C#, Unity ECS and Blender. ", 
             
-            "images":[["vrfish1.png", "two"], ["vrfish2.png", "two"], ["vrfishvid", "video"]], 
+            "images":[["vrfish1.png", "two"], ["vrfish2.png", "two"], ["vrfishvid.mp4", "video"]], 
             
             "featured": "no"
         }, 
@@ -59,7 +59,7 @@
             "client": "FH Upper Austria Project",
             "client-url": "",
 
-            "buttons": [["Access the final report", "https://github.com/PhilToolan/Unity-ECS"]],
+            "buttons": [["Access the final report", "https://drive.google.com/drive/folders/1h8OMan0QkwSWdUGQLhr98PWlBIRFRXRR?usp=sharing"]],
 
             "cover-img": "forest0.jpeg",
             "long-description":"The project was completed as part of a semester project at FH Upper Austria. It recreates a forest environment that is common in Austria, then simulates the FLIR data for that environment. Unreal engine 4 and SpeedTree 8 are used to recreate a forest environment. The trees are procedurally spawned to create the forest and then post processing materials are used to dynamically show the FLIR data for the entire level. ", 
@@ -105,7 +105,7 @@
             "client": "",
             "client-url": "",
 
-            "buttons": [["Check out the renders", "https://github.com/PhilToolan/Unity-ECS"]],
+            "buttons": [["Check out the renders", "https://github.com/PhilToolan/Blender-Isometric-Series"]],
 
             "cover-img": "blend0.png",
             "long-description":"The series of isometric models is a personal project to keep my skills updated and gain experience in new techniques or different modelling techniques. Currently the series features both low poly and hard surface modelling. Some of the environments have been created as part of the 3D Illustrator course from Roman Klčo (Polygon Runway). ", 
