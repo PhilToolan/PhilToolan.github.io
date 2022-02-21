@@ -128,7 +128,7 @@
             "client": "FH Upper Austria Assignment",
             "client-url": "",
 
-            "buttons": [["Access the report", "https://github.com/PhilToolan/Unity-ECS"]],
+            "buttons": [["Access the report", "https://drive.google.com/drive/folders/1kRR3qBwyp_U9rB6cfgMew2LKHohZGwmO?usp=sharing"]],
 
             "cover-img": "opengl0.png",
             "long-description":"A collection of projects completed by me and Samuel Ebner as part of our study at FH Upper Austria. The projects range from basic shapes to complex shaders and materials. All of the projects were completed in parallel with each other and the report delves into the details of each project. This report can be used as a bible for further work. ", 
