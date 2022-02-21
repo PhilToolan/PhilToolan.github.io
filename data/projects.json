@@ -5,15 +5,15 @@
             "title": "The Heist VR",
             "short-description": "A local asymmetric multiplayer game for VR and desktop. Developed as part of my thesis project in TU Dublin. ", 
             "type": "virtualreality videogames", 
-            "year": "May 2021", 
+            "year": "April 2021", 
 
             "author": "Philip Toolan",
-            "awards": "TU Dublin FYP",
+            "awards": "First Class Honours",
             "awards-url": "",
-            "client": "",
+            "client": "TU Dublin Thesis",
             "client-url": "",
 
-            "buttons": [["Access de code", "https://github.com/PhilToolan/Final-Year-Project"]],
+            "buttons": [["Access the code", "https://github.com/PhilToolan/Final-Year-Project"]],
 
             "cover-img": "theheistvr0.png",
             "long-description":"Virtual reality has an impressive ability to allow players to escape reality. Recent advances in hardware have given players higher fidelity worlds, increased pixel counts in screens, improved depth and range of sound and even smell. Fields of view have been increased to reduce the “binocular effect”. This project investigates the software side of virtual reality. There have been some improvements in software such as: better tracking technology and the quality of art assets (to match their equivalent in the real world). By developing this project, the aim is to use software to improve immersion in virtual reality. This is accomplished by incorporating asymmetric multiplayer mechanics to invite the real world into the virtual and prevent potential breaks in immersion occurring. The project discovered that this method had a positive effect on immersion. This finding is limited by a number of factors. The quality of gameplay, the number of participants, lack of in-person testing and the number of games compared. The project consisted of constructing a game around this multiplayer mechanic and compare it with an existing single player experience. A sample size of eight experienced players were exposed to both games and were then tested by questionnaire after their playthroughs. The findings are consistent with the hypothesis that asymmetric multiplayer enhances the immersive experience of virtual reality.", 
@@ -28,19 +28,19 @@
             "title": "VR Fish Meditation",
             "short-description": "A relaxing experience created using Unity ECS to simulate a school of fish, Conway's Game of Life and more.", 
             "type": "virtualreality proceduralgeneration", 
-            "year": "May 2021", 
+            "year": "January 2022", 
 
             "author": "Philip Toolan",
-            "awards": "TU Dublin FYP",
+            "awards": "",
             "awards-url": "",
-            "client": "",
+            "client": "FH Upper Austria Assignment",
             "client-url": "",
 
-            "buttons": [["Access de code", "https://github.com/PhilToolan/Unity-ECS"]],
+            "buttons": [["Access the code", "https://github.com/PhilToolan/Unity-ECS"]],
 
             "cover-img": "theheistvr0.png",
-            "long-description":"Sit back and relax as you watch a school of 1,000 fish all swim around the environment procedurally. The fish consist of 1,000 boids that are updated in real time using separation, cohesion, alignment, constrain and wander behaviours. Procedural animation is also used on each fish to animate them in real time as they interact with their environment. In total there is 28,000 entities being updated every frame, with a performance of over 100fps on desktop and around 90fps in VR. The project also includes a number of other projects using the entity component system in Unity including Conway's Game of Life and real time mesh deformation. ", 
-            "role": "The projects were created as part of class assignments in my final year of TU Dublin. They were all created using C# and Unity ECS. All models use primitive shapes and are generated at run time. ", 
+            "long-description":"Sit back and relax as you watch a school of 15,000 fish all swim around the environment procedurally. The fish consist of 15,000 boids that are updated in real time using separation, cohesion, alignment, constrain and wander behaviours. Procedural animation is also used on each fish to animate them in real time as they interact with their environment. In total there is 28,000 entities being updated every frame, with a performance of over 100fps on desktop and around 90fps in VR. The project also includes a number of other projects using the entity component system in Unity including Conway's Game of Life and real time mesh deformation. ", 
+            "role": "The project was created as an assignment in the Interactive Media master at FH Upper Austria. It was created using C#, Unity ECS and Blender. ", 
             
             "images":[["theheistvr0.png", "one"], ["theheistvr0.png", "two"], ["theheistvr0.png", "two"], ["ansibin-jr.mp4", "video"]], 
             
@@ -54,12 +54,12 @@
             "year": "May 2021", 
 
             "author": "Philip Toolan",
-            "awards": "TU Dublin FYP",
+            "awards": "",
             "awards-url": "",
             "client": "",
             "client-url": "",
 
-            "buttons": [["Access de code", "https://github.com/PhilToolan/GE2-Assignment"]],
+            "buttons": [["Access the code", "https://github.com/PhilToolan/GE2-Assignment"]],
 
             "cover-img": "theheistvr0.png",
             "long-description":"The battle scene is recreated using various triggers that cause the scene changes. Predator prey simulation is used for background fights in the battle. The prey follows a set of way points until it is being attacked at which point it will flee and find some ammo so it can attack the predator back. The predator pursues the prey until it runs out of ammo, at which point it will search for some randomly spawned ammo. This makes an organic looking fight between the ships. Other behaviours are used throughout like obstacle avoidance. As the experience is controlled by AI, the minute details will not be the same every time it runs but the overarching narrative is always the same. A complete rundown of the project can be found on the GitHub.", 
