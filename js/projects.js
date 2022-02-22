@@ -66,7 +66,7 @@ for (i = 0; i < json["projects"].length; i++) {
         newDiv.append(newP5);
 
         let newP6 = document.createElement("p");
-        newP6.innerHTML = "<strong>Authors:</strong> " + json["projects"][i]["author"] + "<br>";
+        newP6.innerHTML = "<strong>Author:</strong> " + json["projects"][i]["author"] + "<br>";
         newDiv.append(newP6);
 
         let newP7 = document.createElement("p");
