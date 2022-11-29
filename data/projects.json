@@ -63,7 +63,7 @@
 
             "cover-img": "forest0.jpeg",
             "long-description":"The project was completed as part of a semester project at FH Upper Austria. It recreates a forest environment that is common in Austria, then simulates the FLIR data for that environment. Unreal engine 4 and SpeedTree 8 are used to recreate a forest environment. The trees are procedurally spawned to create the forest and then post processing materials are used to dynamically show the FLIR data for the entire level. ", 
-            "role": "I created the entire project using blueprints in Unreal, the tree models were made in SpeedTree and the texturing was done in SpeedTree and unreal. The accompanying project report was also written by me with greater details of the project. ", 
+            "role": "I created the entire project using blueprints in Unreal. The tree models were made in SpeedTree and the texturing was completed in SpeedTree and Unreal. In addition to this, I also created materials for different IR cameras using post processing and material instances in Unreal. Finally, a wealth of research was conducted by me into tree structures (alone and in forests) and how sunlight and air temperature can affect the look of different parts of tress when using an IR camera. The accompanying project report was also written by me with greater details of the project. ", 
             
             "images":[["forest1.png", "one"], ["forest4.png", "two"], ["forest3.png", "two"]], 
             
