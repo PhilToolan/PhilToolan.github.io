@@ -707,6 +707,7 @@ hr {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    min-height: 400px;
 }
 
 #project-images .img-two, #project-images .img-one, #project-images .img-video {
