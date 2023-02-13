@@ -174,7 +174,7 @@
             "client": "FDG & PLEY Conferences",
             "client-url": "",
 
-            "buttons": [["", ""]],
+            "buttons": [],
 
             "cover-img": "FarmEyeTracking1.png",
             "long-description":"This game examines the concept of context sensitivity, the design challenges that arise from it and how gaze-based interaction techniques could offer strategies to solve these challenges. Context-sensitive controls often lead to unintentional behavior of the player character. The proposed approach aims at diminishing this issue by enhancing the player controller with an additional gaze input through an eye-tracking device. The gaze of the player sets the context of the interaction. For this purpose, a small prototype in the form of a third-person gardening game was created, in which the player has to plant, water, harvest, and sell crops in order to gain points. The prototype consists of two different control modes: one mode with eye-tracking and a two-button layout, and one without eye-tracking and a three-button layout. Apart from the eye-tracker, an off-the-shelf gamepad was employed as an input device. An exploratory study involving 22 participants revealed that utilizing eye-tracking is a valuable method for establishing the context for interaction.", 
@@ -197,7 +197,7 @@
             "client": "",
             "client-url": "",
 
-            "buttons": [["", ""]],
+            "buttons": [],
 
             "cover-img": "kickonly2.png",
             "long-description":"Get ready for an action-packed adventure as you face wave after wave of cursed Furbies in this heart-pumping game. With only a single powerful kick at your disposal, you'll need to outwit and outmaneuver your enemies. Show off your strategic skills by using your kick to take out multiple Furbies at once by knocking them into traps or into each other. And don't forget, your trusty kick is not just for defense - it also serves as your ticket to reaching new heights and performing daring movements as you navigate through the levels.", 
