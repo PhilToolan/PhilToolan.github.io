@@ -199,11 +199,11 @@
 
             "buttons": [],
 
-            "cover-img": "kickonly2.png",
+            "cover-img": "KickOnly2.png",
             "long-description":"Get ready for an action-packed adventure as you face wave after wave of cursed Furbies in this heart-pumping game. With only a single powerful kick at your disposal, you'll need to outwit and outmaneuver your enemies. Show off your strategic skills by using your kick to take out multiple Furbies at once by knocking them into traps or into each other. And don't forget, your trusty kick is not just for defense - it also serves as your ticket to reaching new heights and performing daring movements as you navigate through the levels.", 
             "role": "In my role as the AI developer for this game, I utilized Unreal Engine 5 and the blackboard system to implement comprehensive AI functionality. Over the course of two weeks, I successfully created two distinct enemy types, including a chasing enemy that attacks the player at close range and a turret-style enemy that shoots at the player from a distance. The AI is highly aware of its surroundings and has the ability to navigate complex maps with ease. In the event that the AI loses sight of the player, it will patrol to try and reacquire their position. The chasing enemy will also strategically try to surround the player in order to gain the advantage.", 
             
-            "images":[["kickonly1.png", "two"], ["kickonly3.png", "two"]], 
+            "images":[["KickOnly1.png", "two"], ["KickOnly3.png", "two"]], 
             
             "featured": "no"
         },
