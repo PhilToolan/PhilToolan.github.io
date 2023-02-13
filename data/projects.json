@@ -157,7 +157,7 @@
             "long-description":"In this 2D platformer, the main character struggles with anxiety, just like many of us do in our daily lives. The game shows how sometimes, all we need is a little bit of support from someone we trust to help us overcome our fears and anxieties. This support can come in many forms, whether it be a friend, family member, or a therapist, but it is crucial in helping us move forward and tackle the challenges that come our way. The game uses abstract graphics and gameplay to represent the struggles of anxiety and the impact that support can have on our lives. The player guides the main character through various levels, each representing a different challenge or obstacle, and with the help of their friend, they are able to overcome these obstacles and reach their goal. The game serves as a reminder that we are never alone in our struggles and that with a little bit of support, we can overcome even the toughest challenges. Whether you are a fan of platformers or not, this game is a unique and impactful way to explore the themes of anxiety and the power of support in a fun and interactive way.", 
             "role": "I worked with basic rendering, fragment and vertex shaders, deferred shading, non-photorealistic shading, creating materials and ray-tracing. Specific work entirely done by me alone can be found on the jersey material and the ray traced torus shape. ", 
             
-            "images":[["ChainedMenu.jpeg", "two"]], 
+            "images":[["ChainedMenu.png", "two"]], 
             
             "featured": "no"
         },
