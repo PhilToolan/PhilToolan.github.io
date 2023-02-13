@@ -162,6 +162,29 @@
             "featured": "no"
         },
         {
+            "keyword": "eye",
+            "title": "Gaze Interaction",
+            "short-description": "A farming game where you use eye-tracking to try and beat the high score.", 
+            "type": " videogames realtime3d ", 
+            "year": " January 2023 ", 
+
+            "author": "Philip Toolan, Philipp Forstner, Sebastien Mayer, Thomas Furst, Oliver Schober",
+            "awards": "",
+            "awards-url": "",
+            "client": "FDG & PLEY Conferences",
+            "client-url": "",
+
+            "buttons": [["", ""]],
+
+            "cover-img": "FarmEyeTracking1.png",
+            "long-description":"This game examines the concept of context sensitivity, the design challenges that arise from it and how gaze-based interaction techniques could offer strategies to solve these challenges. Context-sensitive controls often lead to unintentional behavior of the player character. The proposed approach aims at diminishing this issue by enhancing the player controller with an additional gaze input through an eye-tracking device. The gaze of the player sets the context of the interaction. For this purpose, a small prototype in the form of a third-person gardening game was created, in which the player has to plant, water, harvest, and sell crops in order to gain points. The prototype consists of two different control modes: one mode with eye-tracking and a two-button layout, and one without eye-tracking and a three-button layout. Apart from the eye-tracker, an off-the-shelf gamepad was employed as an input device. An exploratory study involving 22 participants revealed that utilizing eye-tracking is a valuable method for establishing the context for interaction.", 
+            "role": "As part of my role in the game development, I successfully implemented the logic for the seed bag, watering can, and raking mechanics. I also created a highly detailed 3D model of the well and seamlessly integrated eye-tracking technology through the use of the Tobii SDK. In addition, I carried out a comprehensive user study, analyzing the results and conducting relevant statistical analysis. I made a significant contribution to the creation of two papers submitted to the FDG and PLEY conferences in 2023, particularly in the areas of results and analysis, which I wrote extensively.", 
+            
+            "images":[["FarmEyeTracking2.png", "two"], ["FarmEyeTracking3.png", "two"]], 
+            
+            "featured": "no"
+        },
+        {
             "keyword": "stargate",
             "title": "Stargate SG-1 Battle Recreation",
             "short-description": "Recreation of the battle of Antarctica from Stargate SG-1, made in Unity. The project was implemented using procedural generation and boids.", 
