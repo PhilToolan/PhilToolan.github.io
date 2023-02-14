@@ -40,7 +40,7 @@
 
             "cover-img": "vrfish0.png",
             "long-description":"Sit back and relax as you watch a school of 15,000 fish all swim around the environment procedurally. The fish consist of 15,000 boids that are updated in real time using separation, cohesion, alignment, constrain and wander behaviours. Procedural animation is also used on each fish to animate them in real time as they interact with their environment. In total there is 28,000 entities being updated every frame, with a performance of over 100fps on desktop and around 90fps in VR. The project also includes a number of other projects using the entity component system in Unity including Conway's Game of Life and real time mesh deformation. ", 
-            "role": "The project was created as an assignment in the Interactive Media master at FH Upper Austria. It was created using C#, Unity ECS and Blender. ", 
+            "role": "The project was developed with a combination of C#, Unity ECS, and Blender. It involved the implementation of several advanced techniques, including texture-based animation, mesh deformation, and flocking AI. Additionally, I recreated Conway's game of life, a well-known and widely studied example of a cellular automaton. These elements were integrated into a comprehensive and cohesive whole, resulting in a polished and engaging interactive experience.", 
             
             "images":[["vrfish1.png", "two"], ["vrfish2.png", "two"], ["vrfishvid.mp4", "video"]], 
             
