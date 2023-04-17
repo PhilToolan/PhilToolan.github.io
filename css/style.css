@@ -721,6 +721,7 @@ hr {
 @media only screen and (min-width: 550px) {
     .project-details {
         display: flex;
+        justify-content: space-between;
     }
 
     .project-details .project-detail{
@@ -742,11 +743,12 @@ hr {
         margin-right: 20px;
         height: unset;
         margin-bottom: 0px;
+        width: 50%;
     }
 
     .project-role .project-what {
         order: 2;
-        width: 80%;
+        width: 50%;
     }
 
     #project-images .img-one, #project-images .img-video {
