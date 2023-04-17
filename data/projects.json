@@ -15,11 +15,11 @@
 
             "buttons": [],
 
-            "cover-img": "KickOnly2.png",
+            "cover-img": "KickOnly2.webp",
             "long-description":"Get ready for an action-packed adventure as you face wave after wave of cursed Furbies in this heart-pumping game. With only a single powerful kick at your disposal, you'll need to outwit and outmaneuver your enemies. Show off your strategic skills by using your kick to take out multiple Furbies at once by knocking them into traps or into each other. And don't forget, your trusty kick is not just for defense - it also serves as your ticket to reaching new heights and performing daring movements as you navigate through the levels.", 
             "role": "In my role as the AI developer for this game, I utilized Unreal Engine 5 and the blackboard system to implement comprehensive AI functionality. Over the course of two weeks, I successfully created two distinct enemy types, including a chasing enemy that attacks the player at close range and a turret-style enemy that shoots at the player from a distance. The AI is highly aware of its surroundings and has the ability to navigate complex maps with ease. In the event that the AI loses sight of the player, it will patrol to try and reacquire their position. The chasing enemy will also strategically try to surround the player in order to gain the advantage.", 
             
-            "images":[["KickOnly1.png", "two"], ["KickOnly3.png", "two"]], 
+            "images":[["KickOnly1.webp", "two"], ["KickOnly3.webp", "two"]], 
             
             "featured": "no"
         },
@@ -38,11 +38,11 @@
 
             "buttons": [["Access the code", "https://github.com/PhilToolan/Final-Year-Project"]],
 
-            "cover-img": "theheistvr0.png",
+            "cover-img": "theheistvr0.webp",
             "long-description":"Virtual reality has an impressive ability to allow players to escape reality. Recent advances in hardware have given players higher fidelity worlds, increased pixel counts in screens, improved depth and range of sound and even smell. Fields of view have been increased to reduce the “binocular effect”. This project investigates the software side of virtual reality. There have been some improvements in software such as: better tracking technology and the quality of art assets (to match their equivalent in the real world). By developing this project, the aim is to use software to improve immersion in virtual reality. This is accomplished by incorporating asymmetric multiplayer mechanics to invite the real world into the virtual and prevent potential breaks in immersion occurring. The project discovered that this method had a positive effect on immersion. This finding is limited by a number of factors. The quality of gameplay, the number of participants, lack of in-person testing and the number of games compared. The project consisted of constructing a game around this multiplayer mechanic and compare it with an existing single player experience. A sample size of eight experienced players were exposed to both games and were then tested by questionnaire after their playthroughs. The findings are consistent with the hypothesis that asymmetric multiplayer enhances the immersive experience of virtual reality.", 
             "role": "The project was done entirely by myself including all programming, modelling, art and the final thesis. As part of the project programming, VR interactions, VR and desktop user interfaces, top down gameplay, networking and VR gameplay were done. The 3D models were focused on an office environment and were exported and imported in the .fbx file format. The game was built using the Unity game engine and the Unity XR Interaction Toolkit was used to handle inputs from a VR headset. All the modelling and texturing was done in Blender. The Game Design Document was created in Adobe InDesign. ", 
             
-            "images":[["heistvr2.png", "one"], ["heistvr1.png", "two"], ["theheistvr3.png", "two"]], 
+            "images":[["heistvr2.webp", "one"], ["heistvr1.webp", "two"], ["theheistvr3.webp", "two"]], 
             
             "featured": "no"
         },
@@ -61,11 +61,11 @@
 
             "buttons": [],
 
-            "cover-img": "FarmEyeTracking1.png",
+            "cover-img": "FarmEyeTracking1.webp",
             "long-description":"This game examines the concept of context sensitivity, the design challenges that arise from it and how gaze-based interaction techniques could offer strategies to solve these challenges. Context-sensitive controls often lead to unintentional behavior of the player character. The proposed approach aims at diminishing this issue by enhancing the player controller with an additional gaze input through an eye-tracking device. The gaze of the player sets the context of the interaction. For this purpose, a small prototype in the form of a third-person gardening game was created, in which the player has to plant, water, harvest, and sell crops in order to gain points. The prototype consists of two different control modes: one mode with eye-tracking and a two-button layout, and one without eye-tracking and a three-button layout. Apart from the eye-tracker, an off-the-shelf gamepad was employed as an input device. An exploratory study involving 22 participants revealed that utilizing eye-tracking is a valuable method for establishing the context for interaction.", 
             "role": "As part of my role in the game development, I successfully implemented the logic for the seed bag, watering can, and raking mechanics. I also created a highly detailed 3D model of the well and seamlessly integrated eye-tracking technology through the use of the Tobii SDK. In addition, I carried out a comprehensive user study, analyzing the results and conducting relevant statistical analysis. I made a significant contribution to the creation of two papers submitted to the FDG and PLEY conferences in 2023, particularly in the areas of results and analysis, which I wrote extensively.", 
             
-            "images":[["FarmEyeTracking2.png", "two"], ["FarmEyeTracking3.png", "two"]], 
+            "images":[["FarmEyeTracking2.webp", "two"], ["FarmEyeTracking3.webp", "two"]], 
             
             "featured": "yes"
         },
@@ -84,11 +84,11 @@
 
             "buttons": [["Play the Game", "https://philtoolan.itch.io/chained"]],
 
-            "cover-img": "ChainedLevel.png",
+            "cover-img": "ChainedLevel.webp",
             "long-description":"In this 2D platformer, the main character struggles with anxiety, just like many of us do in our daily lives. The game shows how sometimes, all we need is a little bit of support from someone we trust to help us overcome our fears and anxieties. This support can come in many forms, whether it be a friend, family member, or a therapist, but it is crucial in helping us move forward and tackle the challenges that come our way. The game uses abstract graphics and gameplay to represent the struggles of anxiety and the impact that support can have on our lives. The player guides the main character through various levels, each representing a different challenge or obstacle, and with the help of their friend, they are able to overcome these obstacles and reach their goal. The game serves as a reminder that we are never alone in our struggles and that with a little bit of support, we can overcome even the toughest challenges. Whether you are a fan of platformers or not, this game is a unique and impactful way to explore the themes of anxiety and the power of support in a fun and interactive way.", 
             "role": "As the programmer for this game, I was responsible for its development and functionality using the Unity platform. This involved the creation of the levels, which were designed by Alicia Martinez Lopez, as well as the implementation of various features such as an inventory system, a character controller with jumping physics, and a user interface for the menu. I also created particle systems to enhance the collection of items in the game and implemented the ropes tying the characters to the side of the screen. Overall, I played a key role in ensuring the game's technical functionality and overall player experience.", 
             
-            "images":[["ChainedMenu.png", "two"]], 
+            "images":[["ChainedMenu.webp", "two"]], 
             
             "featured": "no"
         }, 
@@ -107,11 +107,11 @@
 
             "buttons": [["Access the final report", "https://drive.google.com/drive/folders/1CRkvWMteG8PHQ3IaVSjPXnbSqyVcaoz8?usp=sharing"]],
 
-            "cover-img": "forest0.jpeg",
+            "cover-img": "forest0.webp",
             "long-description":"The project was completed as part of a semester project at FH Upper Austria. It recreates a forest environment that is common in Austria, then simulates the FLIR data for that environment. Unreal engine 4 and SpeedTree 8 are used to recreate a forest environment. The trees are procedurally spawned to create the forest and then post processing materials are used to dynamically show the FLIR data for the entire level. ", 
             "role": "I created the entire project using blueprints in Unreal. The tree models were made in SpeedTree and the texturing was completed in SpeedTree and Unreal. In addition to this, I also created materials for different IR cameras using post processing and material instances in Unreal. Finally, a wealth of research was conducted by me into tree structures (alone and in forests) and how sunlight and air temperature can affect the look of different parts of tress when using an IR camera. The accompanying project report was also written by me with greater details of the project. ", 
             
-            "images":[["forest1.png", "one"], ["forest4.png", "two"], ["forest3.png", "two"]], 
+            "images":[["forest1.webp", "one"], ["forest4.webp", "two"], ["forest3.webp", "two"]], 
             
             "featured": "yes"
         },
@@ -130,11 +130,11 @@
 
             "buttons": [["Access the full brandbook", "https://drive.google.com/drive/folders/1nu-H346yY-mNRvJpdE_nezhXva-gIuVW?usp=sharing"]],
 
-            "cover-img": "brand0.png",
+            "cover-img": "brand0.webp",
             "long-description":"My own personal brand, VIVI. It is short for vivify which means to make alive. This perfectly encapsulates my ambition to turn code into something incredible. The brand creation process took place over a number of weeks from initial concept to final design. The entire BrandBook can be found online. ", 
             "role": "All the designs and concept were developed over the period of a month. The final designs and mockups were made in Adobe Illustrator, Photoshop and InDesign. ", 
             
-            "images":[["brand1.png", "one"], ["brand2.png", "two"], ["brand3.png", "two"]], 
+            "images":[["brand1.webp", "one"], ["brand2.webp", "two"], ["brand3.webp", "two"]], 
             
             "featured": "no"
         },
@@ -153,11 +153,11 @@
 
             "buttons": [["Check out the renders", "https://github.com/PhilToolan/Blender-Isometric-Series"]],
 
-            "cover-img": "blend0.png",
+            "cover-img": "blend0.webp",
             "long-description":"The series of isometric models is a personal project to keep my skills updated and gain experience in new techniques or different modelling techniques. Currently the series features both low poly and hard surface modelling. Some of the environments have been created as part of the 3D Illustrator course from Roman Klčo (Polygon Runway). ", 
             "role": "I created and rendered all the environments in Blender using cycles. All the materials were created in Blender, Photoshop or found online. ", 
             
-            "images":[["blend1.png", "one"], ["blend2.png", "two"], ["blend3.png", "two"], ["blend4.png", "two"], ["blend5.png", "two"]], 
+            "images":[["blend1.webp", "one"], ["blend2.webp", "two"], ["blend3.webp", "two"], ["blend4.webp", "two"], ["blend5.webp", "two"]], 
             
             "featured": "no"
         },
@@ -176,11 +176,11 @@
 
             "buttons": [["Access the code", "https://github.com/PhilToolan/Unity-ECS"]],
 
-            "cover-img": "vrfish0.png",
+            "cover-img": "vrfish0.webp",
             "long-description":"Sit back and relax as you watch a school of 15,000 fish all swim around the environment procedurally. The fish consist of 15,000 boids that are updated in real time using separation, cohesion, alignment, constrain and wander behaviours. Procedural animation is also used on each fish to animate them in real time as they interact with their environment. In total there is 28,000 entities being updated every frame, with a performance of over 100fps on desktop and around 90fps in VR. The project also includes a number of other projects using the entity component system in Unity including Conway's Game of Life and real time mesh deformation. ", 
             "role": "The project was developed with a combination of C#, Unity ECS, and Blender. It involved the implementation of several advanced techniques, including texture-based animation, mesh deformation, and flocking AI. Additionally, I recreated Conway's game of life, a well-known and widely studied example of a cellular automaton. These elements were integrated into a comprehensive and cohesive whole, resulting in a polished and engaging interactive experience.", 
             
-            "images":[["vrfish1.png", "two"], ["vrfish2.png", "two"], ["vrfishvid.mp4", "video"]], 
+            "images":[["vrfish1.webp", "two"], ["vrfish2.webp", "two"], ["vrfishvid.mp4", "video"]], 
             
             "featured": "no"
         }, 
@@ -199,11 +199,11 @@
 
             "buttons": [["Access the report", "https://drive.google.com/drive/folders/1kRR3qBwyp_U9rB6cfgMew2LKHohZGwmO?usp=sharing"]],
 
-            "cover-img": "opengl0.png",
+            "cover-img": "opengl0.webp",
             "long-description":"A collection of projects completed by me and Samuel Zuehlke as part of our study at FH Upper Austria. The projects range from basic shapes to complex shaders and materials. All of the projects were completed in parallel with each other and the report delves into the details of each project. This report can be used as a bible for further work. ", 
             "role": "I worked with basic rendering, fragment and vertex shaders, deferred shading, non-photorealistic shading, creating materials and ray-tracing. Specific work entirely done by me alone can be found on the jersey material and the ray traced torus shape. ", 
             
-            "images":[["opengl1.jpeg", "two"], ["opengl2.png", "two"]], 
+            "images":[["opengl1.webp", "two"], ["opengl2.webp", "two"]], 
             
             "featured": "no"
         },
@@ -222,11 +222,11 @@
 
             "buttons": [["Access the code", "https://github.com/PhilToolan/GE2-Assignment"]],
 
-            "cover-img": "stargate0.jpg",
+            "cover-img": "stargate0.webp",
             "long-description":"The battle scene is recreated using various triggers that cause the scene changes. Predator prey simulation is used for background fights in the battle. The prey follows a set of way points until it is being attacked at which point it will flee and find some ammo so it can attack the predator back. The predator pursues the prey until it runs out of ammo, at which point it will search for some randomly spawned ammo. This makes an organic looking fight between the ships. Other behaviours are used throughout like obstacle avoidance. As the experience is controlled by AI, the minute details will not be the same every time it runs but the overarching narrative is always the same. A complete rundown of the project can be found on the GitHub.", 
             "role": "The project was created as part of a class assignment in my final year of TU Dublin. I programmed the entire experience using C# and Unity. The 3D models are from various users on SketchFab.", 
             
-            "images":[["stargate0.jpg", "two"], ["stargate1.jpg", "two"]], 
+            "images":[["stargate0.webp", "two"], ["stargate1.webp", "two"]], 
             
             "featured": "no"
         }

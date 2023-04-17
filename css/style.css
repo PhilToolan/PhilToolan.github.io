@@ -96,8 +96,9 @@ main {
 
 /* TEXT */
 
-span {
+i {
     color: var(--orange);
+    font-weight: 600;
 }
 
 .title {
@@ -771,6 +772,7 @@ hr {
     left: 50%;
     width: 40% !important;
     z-index: 20 !important;
+    max-width: 450px;
 }
 
 .size-50{
@@ -921,12 +923,14 @@ hr {
 
     .whatido .story img {
         display: unset;
-        width: 300px;
+        width: 40%;
+        height: 180%;
         position: absolute;
         border-radius: 5px;
         z-index: -1;
-        top: 10px;
-        left: 50px;
+        /* top: 10px; */
+        left: 30px;
+        object-fit: cover;
     }
 
     .contact {
