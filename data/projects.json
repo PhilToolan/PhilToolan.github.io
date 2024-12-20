@@ -21,7 +21,7 @@
             
             "images":[["abstract.webp", "one"], ["franz.webp", "two"], ["julia.webp", "two"]], 
             
-            "featured": "no"
+            "featured": "yes"
         },
         {
             "keyword": "kick",
@@ -90,7 +90,7 @@
             
             "images":[["FarmEyeTracking2.webp", "two"], ["FarmEyeTracking3.webp", "two"]], 
             
-            "featured": "yes"
+            "featured": "no"
         },
         {
             "keyword": "gmtk",
@@ -136,7 +136,7 @@
             
             "images":[["forest1.webp", "one"], ["forest4.webp", "two"], ["forest3.webp", "two"]], 
             
-            "featured": "yes"
+            "featured": "no"
         },
         {
             "keyword": "brand",
