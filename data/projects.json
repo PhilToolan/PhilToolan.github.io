@@ -5,7 +5,7 @@
             "title": "ECR Plenary Lecture 2025",
             "short-description": "A realtime 3D environment for a lecture in the ECR 2025 Conference.", 
             "type": " realtime3d ", 
-            "year": " February 2024 ", 
+            "year": " February 2025 ", 
 
             "author": "Friendly Fire, Media Apparat",
             "awards": "",
@@ -15,11 +15,11 @@
 
             "buttons": [["Watch the lecture", "https://youtu.be/O63wOw2jiqM?si=PO-JxytgoppN_m8R"]],
 
-            "cover-img": "KTMConfig1.webp",
+            "cover-img": "ECR2.webp",
             "long-description":"This was a collaborative project by Friendly Fire and Media Apparat to produce the visuals for the lecture. The visuals were streamed via a disguise media server to massive 8K displays, with all the visuals running in real time in Unreal Engine 5.", 
             "role": "As developer on this project I impacted on the project in a number of ways. My main role was implementing slides from adobe illustrator into Unreal engine 5 using widgets. In this way it was possible to edit slides and information up to the last moment unlike what would be possible in a pre-rendered performance. I also implmented various functions and events for managing slide animations and logic. Additionally, I aided in performance improvements so we could reach our targets on site and ensure a smooth experience. In the video you can see that the lecture went without a hitch and in fact our presentation was the only lecture at the conference who could stay comitted to a real time solution.", 
             
-            "images":[["KTMConfig2.webp", "two"], ["KTMConfig3.webp", "two"]], 
+            "images":[["ECR1.webp", "two"], ["ECR3.webp", "two"]], 
             
             "featured": "no"
         },
