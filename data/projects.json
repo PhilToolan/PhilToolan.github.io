@@ -38,11 +38,11 @@
 
             "buttons": [["Access the configurator", "https://configurator.ktm.com/models/de-at/naked-bike/M-990DUKE2024?variation=F9803XC"]],
 
-            "cover-img": "KTMConfig1.webp",
+            "cover-img": "KTMConfig3.webp",
             "long-description":"The KTM configurator provides a novel way to customise your purchase. It lets a customer choose between a variety of colours and optional extras. Each choice is shown to the user within 2 seconds via a remote instance that renders the exact choices in 8 perspectives.", 
             "role": "As the developer on this project, I played a central role in its success. I improved on and developed a new rendering technique in Unreal Engine 5 capable of producing high-quality stills via WebSocket within 2 seconds, this was the compelling feature of the configurator that was required for full success of the project. Early on, I conceptualized and implemented a transformative workflow for the product and company, empowering artists to work freely and improving collaboration and development processes. I also optimized the application’s packaging and deployment process. Additionally, I implemented persistent objects and an advanced level-loading system in Unreal Engine 5 tailored to the use case. I integrated a WebSocket communication system to enable seamless communication and transfer of image byte data. I optimized the rendering process and quality to allow for increibly fast render time even on low end streaming instance hardware without compromising quality, leveraging Unreal's viewmodes, graphs, and profiler for detailed issue tracking. Additionally, I helped conceptualize and implement a new automated review process internally so that changes would be quicker and more stable.", 
             
-            "images":[["KTMConfig2.webp", "two"], ["KTMConfig3.webp", "two"]], 
+            "images":[["KTMConfig1.webp", "two"], ["KTMConfig2.webp", "two"]], 
             
             "featured": "no"
         },
