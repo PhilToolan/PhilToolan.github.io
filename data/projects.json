@@ -1,6 +1,52 @@
 {
     "projects": [
         {
+            "keyword": "ecrlecture2025",
+            "title": "ECR Plenary Lecture 2025",
+            "short-description": "A realtime 3D environment for a lecture in the ECR 2025 Conference.", 
+            "type": " realtime3d ", 
+            "year": " February 2024 ", 
+
+            "author": "Friendly Fire, Media Apparat",
+            "awards": "",
+            "awards-url": "",
+            "client": "Media Apparat",
+            "client-url": "https://www.mediaapparat.com/en-us/",
+
+            "buttons": [["Watch the lecture", "https://youtu.be/O63wOw2jiqM?si=PO-JxytgoppN_m8R"]],
+
+            "cover-img": "KTMConfig1.webp",
+            "long-description":"This was a collaborative project by Friendly Fire and Media Apparat to produce the visuals for the lecture. The visuals were streamed via a disguise media server to massive 8K displays, with all the visuals running in real time in Unreal Engine 5.", 
+            "role": "As developer on this project I impacted on the project in a number of ways. My main role was implementing slides from adobe illustrator into Unreal engine 5 using widgets. In this way it was possible to edit slides and information up to the last moment unlike what would be possible in a pre-rendered performance. I also implmented various functions and events for managing slide animations and logic. Additionally, I aided in performance improvements so we could reach our targets on site and ensure a smooth experience. In the video you can see that the lecture went without a hitch and in fact our presentation was the only lecture at the conference who could stay comitted to a real time solution.", 
+            
+            "images":[["KTMConfig2.webp", "two"], ["KTMConfig3.webp", "two"]], 
+            
+            "featured": "no"
+        },
+        {
+            "keyword": "ktmvisualizer",
+            "title": "KTM Configurator",
+            "short-description": "A product configurator for KTM motorbikes.", 
+            "type": " realtime3d ", 
+            "year": " June 2024 ", 
+
+            "author": "Friendly Fire",
+            "awards": "",
+            "awards-url": "",
+            "client": "Pierer Innovation",
+            "client-url": "https://www.pierer-innovation.com/",
+
+            "buttons": [["Access the configurator", "https://configurator.ktm.com/models/de-at/naked-bike/M-990DUKE2024?variation=F9803XC"]],
+
+            "cover-img": "KTMConfig1.webp",
+            "long-description":"The KTM configurator provides a novel way to customise your purchase. It lets a customer choose between a variety of colours and optional extras. Each choice is shown to the user within 2 seconds via a remote instance that renders the exact choices in 8 perspectives.", 
+            "role": "As the developer on this project, I played a central role in its success. I improved on and developed a new rendering technique in Unreal Engine 5 capable of producing high-quality stills via WebSocket within 2 seconds, this was the compelling feature of the configurator that was required for full success of the project. Early on, I conceptualized and implemented a transformative workflow for the product and company, empowering artists to work freely and improving collaboration and development processes. I also optimized the application’s packaging and deployment process. Additionally, I implemented persistent objects and an advanced level-loading system in Unreal Engine 5 tailored to the use case. I integrated a WebSocket communication system to enable seamless communication and transfer of image byte data. I optimized the rendering process and quality to allow for increibly fast render time even on low end streaming instance hardware without compromising quality, leveraging Unreal's viewmodes, graphs, and profiler for detailed issue tracking. Additionally, I helped conceptualize and implement a new automated review process internally so that changes would be quicker and more stable.", 
+            
+            "images":[["KTMConfig2.webp", "two"], ["KTMConfig3.webp", "two"]], 
+            
+            "featured": "no"
+        },
+        {
             "keyword": "sckvisualizer",
             "title": "Schock Configurator",
             "short-description": "A product configurator based around sinks and taps.", 
@@ -22,6 +68,29 @@
             "images":[["Franz.webp", "two"], ["Julia.webp", "two"]], 
             
             "featured": "yes"
+        },
+        {
+            "keyword": "pivisualizer",
+            "title": "Husqvarna Configurator",
+            "short-description": "A product configurator for Husqvarna motorbikes.", 
+            "type": " realtime3d ", 
+            "year": " August 2024 ", 
+
+            "author": "Friendly Fire",
+            "awards": "",
+            "awards-url": "",
+            "client": "Pierer Innovation",
+            "client-url": "https://www.pierer-innovation.com/",
+
+            "buttons": [["Access the configurator", "https://configurator.husqvarna-motorcycles.com/models/de-at/naked/m-801svartpilen2024"]],
+
+            "cover-img": "801Config1.webp",
+            "long-description":"The Husqvarna configurator provides a novel way to customise your purchase. It lets a customer choose between a variety of optional extras. Each choice is shown to the user within 2 seconds via a remote instance that renders the exact choices in 8 perspectives.", 
+            "role": "As the developer on this project, I played a central role in its success. I improved on and developed a new rendering technique in Unreal Engine 5 capable of producing high-quality stills via WebSocket within 2 seconds, this was the compelling feature of the configurator that was required for full success of the project. Early on, I conceptualized and implemented a transformative workflow for the product and company, empowering artists to work freely and improving collaboration and development processes. I also optimized the application’s packaging and deployment process. Additionally, I implemented persistent objects and an advanced level-loading system in Unreal Engine 5 tailored to the use case. I integrated a WebSocket communication system to enable seamless communication and transfer of image byte data. I optimized the rendering process and quality to allow for increibly fast render time even on low end streaming instance hardware without compromising quality, leveraging Unreal's viewmodes, graphs, and profiler for detailed issue tracking. Additionally, I helped conceptualize and implement a new automated review process internally so that changes would be quicker and more stable.", 
+            
+            "images":[["801Config2.webp", "two"], ["801Config3.webp", "two"]], 
+            
+            "featured": "no"
         },
         {
             "keyword": "kick",
