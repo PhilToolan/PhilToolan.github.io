@@ -42,7 +42,7 @@
             "long-description":"The KTM configurator provides a novel way to customise your purchase. It lets a customer choose between a variety of colours and optional extras. Each choice is shown to the user within 2 seconds via a remote instance that renders the exact choices in 8 perspectives.", 
             "role": "As the developer on this project, I played a central role in its success. I improved on and developed a new rendering technique in Unreal Engine 5 capable of producing high-quality stills via WebSocket within 2 seconds, this was the compelling feature of the configurator that was required for full success of the project. Early on, I conceptualized and implemented a transformative workflow for the product and company, empowering artists to work freely and improving collaboration and development processes. I also optimized the application’s packaging and deployment process. Additionally, I implemented persistent objects and an advanced level-loading system in Unreal Engine 5 tailored to the use case. I integrated a WebSocket communication system to enable seamless communication and transfer of image byte data. I optimized the rendering process and quality to allow for increibly fast render time even on low end streaming instance hardware without compromising quality, leveraging Unreal's viewmodes, graphs, and profiler for detailed issue tracking. Additionally, I helped conceptualize and implement a new automated review process internally so that changes would be quicker and more stable.", 
             
-            "images":[["KTMConfig1.webp", "two"], ["KTMConfig2.webp", "two"]], 
+            "images":[["KTMConfig1.webp", "two"], ["KTMConfig2.webp", "two"], ["KTMConfigGIF.gif", "two"]], 
             
             "featured": "no"
         },
@@ -296,29 +296,6 @@
             "role": "I worked with basic rendering, fragment and vertex shaders, deferred shading, non-photorealistic shading, creating materials and ray-tracing. Specific work entirely done by me alone can be found on the jersey material and the ray traced torus shape. ", 
             
             "images":[["opengl1.webp", "two"], ["opengl2.webp", "two"]], 
-            
-            "featured": "no"
-        },
-        {
-            "keyword": "stargate",
-            "title": "Stargate SG-1 Battle Recreation",
-            "short-description": "Recreation of the battle of Antarctica from Stargate SG-1, made in Unity. The project was implemented using procedural generation and boids.", 
-            "type": "realtime3d proceduralgeneration", 
-            "year": "May 2021", 
-
-            "author": "Philip Toolan",
-            "awards": "",
-            "awards-url": "",
-            "client": "TU Dublin Assignment",
-            "client-url": "https://www.tudublin.ie",
-
-            "buttons": [["Access the code", "https://github.com/PhilToolan/GE2-Assignment"]],
-
-            "cover-img": "stargate0.webp",
-            "long-description":"The battle scene is recreated using various triggers that cause the scene changes. Predator prey simulation is used for background fights in the battle. The prey follows a set of way points until it is being attacked at which point it will flee and find some ammo so it can attack the predator back. The predator pursues the prey until it runs out of ammo, at which point it will search for some randomly spawned ammo. This makes an organic looking fight between the ships. Other behaviours are used throughout like obstacle avoidance. As the experience is controlled by AI, the minute details will not be the same every time it runs but the overarching narrative is always the same. A complete rundown of the project can be found on the GitHub.", 
-            "role": "The project was created as part of a class assignment in my final year of TU Dublin. I programmed the entire experience using C# and Unity. The 3D models are from various users on SketchFab.", 
-            
-            "images":[["stargate0.webp", "two"], ["stargate1.webp", "two"]], 
             
             "featured": "no"
         }
