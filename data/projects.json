@@ -208,29 +208,6 @@
             "featured": "no"
         },
         {
-            "keyword": "brand",
-            "title": "VIVI Branding",
-            "short-description": "My personal brand, VIVI.", 
-            "type": " branding ", 
-            "year": "June 2020", 
-
-            "author": "Philip Toolan",
-            "awards": "",
-            "awards-url": "",
-            "client": "",
-            "client-url": "",
-
-            "buttons": [["Access the full brandbook", "https://drive.google.com/drive/folders/1nu-H346yY-mNRvJpdE_nezhXva-gIuVW?usp=sharing"]],
-
-            "cover-img": "brand0.webp",
-            "long-description":"My own personal brand, VIVI. It is short for vivify which means to make alive. This perfectly encapsulates my ambition to turn code into something incredible. The brand creation process took place over a number of weeks from initial concept to final design. The entire BrandBook can be found online. ", 
-            "role": "All the designs and concept were developed over the period of a month. The final designs and mockups were made in Adobe Illustrator, Photoshop and InDesign. ", 
-            
-            "images":[["brand1.webp", "one"], ["brand2.webp", "two"], ["brand3.webp", "two"]], 
-            
-            "featured": "no"
-        },
-        {
             "keyword": "isometricseries",
             "title": "Isometric Models",
             "short-description": "An ongoing series of isometric environments created in Blender.", 

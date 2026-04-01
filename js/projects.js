@@ -157,12 +157,7 @@ function tags() {
         class1.classList = "tag";
         class1.textContent = "PROCEDURAL GENERATION";
         newDiv3.append(class1);
-    } if (divProject.classList.contains("branding")) {
-        let class1 = document.createElement("p"); 
-        class1.classList = "tag";
-        class1.textContent = "BRANDING";
-        newDiv3.append(class1);
-    }
+    } 
 }
 
 function clasification() {
@@ -173,7 +168,6 @@ function clasification() {
     var modellingButton = document.getElementById("3dmodelling");
     var videogamesButton = document.getElementById("videogames");
     var proceduralgenerationButton = document.getElementById("proceduralgeneration");
-    var brandingButton = document.getElementById("branding");
 
     var allProjects = document.getElementsByClassName("project-box");
     var virtualrealityProjects = document.getElementsByClassName("virtualreality");
@@ -181,7 +175,6 @@ function clasification() {
     var modellingProjects = document.getElementsByClassName("3dmodelling");
     var videogamesProjects = document.getElementsByClassName("videogames");
     var proceduralgenerationProjects = document.getElementsByClassName("proceduralgeneration");
-    var brandingProjects = document.getElementsByClassName("branding");
 
     allButton.addEventListener("click", showAll);
     virtualrealityButton.addEventListener("click", showVirtualreality);
@@ -189,7 +182,6 @@ function clasification() {
     modellingButton.addEventListener("click", showModelling);
     videogamesButton.addEventListener("click", showVideogames);
     proceduralgenerationButton.addEventListener("click", showProceduralgeneration);
-    brandingButton.addEventListener("click", showBranding);
 
     function showAll() {
         for (var i = 0; i < allProjects.length; i++) {
@@ -202,7 +194,6 @@ function clasification() {
         modellingButton.classList.remove("active");
         videogamesButton.classList.remove("active");
         proceduralgenerationButton.classList.remove("active");
-        brandingButton.classList.remove("active");
     }
 
     function showVirtualreality() {
@@ -220,7 +211,6 @@ function clasification() {
         modellingButton.classList.remove("active");
         videogamesButton.classList.remove("active");
         proceduralgenerationButton.classList.remove("active");
-        brandingButton.classList.remove("active");
     }
 
     function showRealtime3d() {
@@ -238,7 +228,6 @@ function clasification() {
         modellingButton.classList.remove("active");
         videogamesButton.classList.remove("active");
         proceduralgenerationButton.classList.remove("active");
-        brandingButton.classList.remove("active");
     }
 
     function showModelling() {
@@ -256,7 +245,6 @@ function clasification() {
         modellingButton.classList.add("active");
         videogamesButton.classList.remove("active");
         proceduralgenerationButton.classList.remove("active");
-        brandingButton.classList.remove("active");
     }
 
     function showVideogames() {
@@ -274,7 +262,6 @@ function clasification() {
         modellingButton.classList.remove("active");
         videogamesButton.classList.add("active");
         proceduralgenerationButton.classList.remove("active");
-        brandingButton.classList.remove("active");
     }
 
     function showProceduralgeneration() {
@@ -292,25 +279,6 @@ function clasification() {
         modellingButton.classList.remove("active");
         videogamesButton.classList.remove("active");
         proceduralgenerationButton.classList.add("active");
-        brandingButton.classList.remove("active");
-    }
-
-    function showBranding() {
-        for (var i = 0; i < allProjects.length; i++) {
-            allProjects[i].style.opacity = 0;
-            allProjects[i].style.display = "none";
-        }
-        for (var i = 0; i < brandingProjects.length; i++) {
-            brandingProjects[i].style.opacity = 1;
-            brandingProjects[i].style.display = "flex";
-        }
-        allButton.classList.remove("active");
-        virtualrealityButton.classList.remove("active");
-        realtime3dButton.classList.remove("active");
-        modellingButton.classList.remove("active");
-        videogamesButton.classList.remove("active");
-        proceduralgenerationButton.classList.remove("active");
-        brandingButton.classList.add("active");
     }
 }
 

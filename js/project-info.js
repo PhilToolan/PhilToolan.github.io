@@ -56,6 +56,7 @@ function createProject(json) {
     if (json["projects"][projectValue]["client"] != "") {
         project_client.innerHTML = json["projects"][projectValue]["client"];
         project_client_title.innerHTML = "Client";
+        project_client.href = json["projects"][projectValue]["client-url"];
     }
 
     if (json["projects"][projectValue]["awards"] != "") {

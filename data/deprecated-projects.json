@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "keyword": "stargate",
+            "title": "Stargate SG-1 Battle Recreation",
+            "short-description": "Recreation of the battle of Antarctica from Stargate SG-1, made in Unity. The project was implemented using procedural generation and boids.", 
+            "type": "realtime3d proceduralgeneration", 
+            "year": "May 2021", 
+
+            "author": "Philip Toolan",
+            "awards": "",
+            "awards-url": "",
+            "client": "TU Dublin Assignment",
+            "client-url": "https://www.tudublin.ie",
+
+            "buttons": [["Access the code", "https://github.com/PhilToolan/GE2-Assignment"]],
+
+            "cover-img": "stargate0.webp",
+            "long-description":"The battle scene is recreated using various triggers that cause the scene changes. Predator prey simulation is used for background fights in the battle. The prey follows a set of way points until it is being attacked at which point it will flee and find some ammo so it can attack the predator back. The predator pursues the prey until it runs out of ammo, at which point it will search for some randomly spawned ammo. This makes an organic looking fight between the ships. Other behaviours are used throughout like obstacle avoidance. As the experience is controlled by AI, the minute details will not be the same every time it runs but the overarching narrative is always the same. A complete rundown of the project can be found on the GitHub.", 
+            "role": "The project was created as part of a class assignment in my final year of TU Dublin. I programmed the entire experience using C# and Unity. The 3D models are from various users on SketchFab.", 
+            
+            "images":[["stargate0.webp", "two"], ["stargate1.webp", "two"]], 
+            
+            "featured": "no"
+        },
+        {
+            "keyword": "brand",
+            "title": "VIVI Branding",
+            "short-description": "My personal brand, VIVI.", 
+            "type": " branding ", 
+            "year": "June 2020", 
+
+            "author": "Philip Toolan",
+            "awards": "",
+            "awards-url": "",
+            "client": "",
+            "client-url": "",
+
+            "buttons": [["Access the full brandbook", "https://drive.google.com/drive/folders/1nu-H346yY-mNRvJpdE_nezhXva-gIuVW?usp=sharing"]],
+
+            "cover-img": "brand0.webp",
+            "long-description":"My own personal brand, VIVI. It is short for vivify which means to make alive. This perfectly encapsulates my ambition to turn code into something incredible. The brand creation process took place over a number of weeks from initial concept to final design. The entire BrandBook can be found online. ", 
+            "role": "All the designs and concept were developed over the period of a month. The final designs and mockups were made in Adobe Illustrator, Photoshop and InDesign. ", 
+            
+            "images":[["brand1.webp", "one"], ["brand2.webp", "two"], ["brand3.webp", "two"]], 
+            
+            "featured": "no"
+        }
+    ]
+}
