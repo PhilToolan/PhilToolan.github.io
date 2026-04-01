@@ -36,7 +36,7 @@
             "client": "Pierer Innovation",
             "client-url": "https://www.pierer-innovation.com/",
 
-            "buttons": [["Access the configurator", "https://configurator.ktm.com/models/de-at/naked-bike/M-990DUKE2024?variation=F9803XC"]],
+            "buttons": [["Access the configurator", "https://configurator.ktm.com/models/de-at"]],
 
             "cover-img": "KTMConfig3.webp",
             "long-description":"The KTM configurator provides a novel way to customise your purchase. It lets a customer choose between a variety of colours and optional extras. Each choice is shown to the user within 2 seconds via a remote instance that renders the exact choices in 8 perspectives.", 
@@ -59,7 +59,7 @@
             "client": "Schock",
             "client-url": "https://www.schock.de/int_en",
 
-            "buttons": [["Access the configurator", "https://www.configurator.schock.de/#/?channel=int_en&scene=&camera=&sink=&tap=&drainKitPart=&bowl=&choppingBoard=&drainer=&gastronormContainer=&soapDispenser=&materials=&sinkOrientation=default"]],
+            "buttons": [["Watch the Showreel", "https://vimeo.com/1022815950?fl=pl&fe=cm"]],
 
             "cover-img": "Abstract.webp",
             "long-description":"The SCHOCK configurator brings the entire product portfolio to life, offering five distinct kitchen styles—from luxurious designs to compact solutions for small apartments and rustic country kitchens. Users can customize worktops, furniture fronts, and handles to create a highly realistic preview of their future kitchen. With six camera perspectives, customers can explore sinks and taps in real time, enhanced by dynamic details like rotating elements and lifelike lighting effects. Additionally, two specialized versions of the application for B2B customers and admins, enable advanced customizations for rendering tailored to marketing needs.", 
@@ -82,7 +82,7 @@
             "client": "Pierer Innovation",
             "client-url": "https://www.pierer-innovation.com/",
 
-            "buttons": [["Access the configurator", "https://configurator.husqvarna-motorcycles.com/models/de-at/naked/m-801svartpilen2024"]],
+            "buttons": [["Access the configurator", "https://configurator.husqvarna-motorcycles.com/models/de-at"]],
 
             "cover-img": "801Config1.webp",
             "long-description":"The Husqvarna configurator provides a novel way to customise your purchase. It lets a customer choose between a variety of optional extras. Each choice is shown to the user within 2 seconds via a remote instance that renders the exact choices in 8 perspectives.", 
